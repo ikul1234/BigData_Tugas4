@@ -18,7 +18,7 @@ Tools yang diperlukan dalam tugas ini:
 
 # Kafka Docker
 * Docker sudah terinstall <br/>
-![alt text](https://github.com/farizmpr/Bigdata-2020/blob/master/tugas_4/picture/docker.jpg "docker")<br/>
+![alt text](https://github.com/ikul1234/BigData_Tugas4/blob/master/Screenshot/docker_compose.jpg "docker")<br/>
 * Membangun infrastruktur kafka dengan docker (2 broker dan 1 zookeeper sebagai cluster) (docker-compose.yml)
 
 ```
@@ -68,16 +68,16 @@ services:
 # Running
 
 * Pertama jalankan command ``` compose up -d ``` di folder yang sudah ada docker-compose.yml<br/>
-  ![alt text](https://github.com/farizmpr/Bigdata-2020/blob/master/tugas_4/picture/compose.PNG "docker")<br/>
+  ![alt text](https://github.com/ikul1234/BigData_Tugas4/blob/master/Screenshot/compose.jpg "docker")<br/>
 * Pastikan berhasil seperti gambar di bawah <br/>
-  ![alt text](https://github.com/farizmpr/Bigdata-2020/blob/master/tugas_4/picture/success_compose.PNG "docker")<br/>
+  ![alt text](https://github.com/ikul1234/BigData_Tugas4/blob/master/Screenshot/success_compose.jpg "docker")<br/>
 * Cek di Docker apakah sudah berhasil
-  ![alt text](https://github.com/farizmpr/Bigdata-2020/blob/master/tugas_4/picture/docker_compose.PNG "docker")<br/>
+  ![alt text](https://github.com/ikul1234/BigData_Tugas4/blob/master/Screenshot/docker_compose.jpg "docker")<br/>
 
 # Testing
 
 * Test pada Conduktor dengan setting sama seperti di script<br/>
-  ![alt text](https://github.com/farizmpr/Bigdata-2020/blob/master/tugas_4/picture/conductor_install.PNG "docker")<br/>
+  ![alt text](https://github.com/ikul1234/BigData_Tugas4/blob/master/Screenshot/conductor_install.jpg "docker")<br/>
 
 * Cek apakah kafka sudah terbuat<br/>
-  ![alt text](https://github.com/farizmpr/Bigdata-2020/blob/master/tugas_4/picture/result.PNG "docker")<br/>
+  ![alt text](https://github.com/ikul1234/BigData_Tugas4/blob/master/Screenshot/result.PNG "docker")<br/>
