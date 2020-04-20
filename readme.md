@@ -80,4 +80,4 @@ services:
   ![alt text](https://github.com/ikul1234/BigData_Tugas4/blob/master/Screenshot/conductor_install.jpg "docker")<br/>
 
 * Cek apakah kafka sudah terbuat<br/>
-  ![alt text](https://github.com/ikul1234/BigData_Tugas4/blob/master/Screenshot/result.PNG "docker")<br/>
+  ![alt text](https://github.com/ikul1234/BigData_Tugas4/blob/master/Screenshot/result.png "docker")<br/>
